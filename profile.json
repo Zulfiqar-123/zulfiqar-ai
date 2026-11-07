@@ -1,0 +1,22 @@
+
+{
+  "name": "Zulfiqar",
+  "title": "Technology Enthusiast & Aspiring Developer",
+  "about": "Zulfiqar is a technology enthusiast and aspiring developer who is passionate about technology and AI development. He is building his own personal AI chatbot using Node.js, Express, and Groq AI.",
+  "skills": [
+    "Web Development",
+    "JavaScript",
+    "Node.js",
+    "AI Development"
+  ],
+  "projects": [
+    {
+      "name": "Personal AI Chatbot",
+      "description": "A personal AI chatbot built using Node.js, Express, and Groq AI."
+    }
+  ],
+  "languages": [
+    "English",
+    "Urdu"
+  ]
+}
